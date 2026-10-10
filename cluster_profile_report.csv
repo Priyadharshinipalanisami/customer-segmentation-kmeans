@@ -1,0 +1,6 @@
+Cluster,Customers,Avg_Age,Avg_Annual_Income_k,Avg_Spending_Score,Female_Percent,Segment,Recommended_Marketing_Action
+0,64,55.8,53.61,39.77,53.12,Mature steady customers,"Prioritize convenience, reliable service, relevant essentials, and personalized retention offers."
+1,49,35.61,69.9,23.53,61.22,Affluent cautious customers,"Use tailored recommendations, value demonstrations, and limited-time offers; avoid excessive discounting."
+2,89,28.49,62.21,72.39,53.93,High-value spenders,"Offer premium bundles, loyalty rewards, early access, and personalized upsell campaigns."
+3,24,31.54,241.46,81.83,41.67,High-value spenders,"Offer premium bundles, loyalty rewards, early access, and personalized upsell campaigns."
+4,24,42.25,237.92,19.0,62.5,Affluent cautious customers,"Use tailored recommendations, value demonstrations, and limited-time offers; avoid excessive discounting."
