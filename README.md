@@ -140,7 +140,6 @@ To display a saved chart directly in this README after uploading it to GitHub, y
 
 ### 1. Clone the repository
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ```bash
 git clone https://github.com/Priyadharshinipalanisami/customer-segmentation-kmeans.git
@@ -220,7 +219,7 @@ This project demonstrates an end-to-end customer segmentation workflow using dat
 **Your Name**  
 GitHub: (https://github.com/Priyadharshinipalanisami)
 
-> Replace the author placeholders before publishing.
+
 
 ## 📄 License
 
