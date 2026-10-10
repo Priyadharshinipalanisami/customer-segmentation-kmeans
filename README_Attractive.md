@@ -218,7 +218,7 @@ This project demonstrates an end-to-end customer segmentation workflow using dat
 ## 👩‍💻 Author
 
 **Your Name**  
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [YOUR-USERNAME](https://github.com/Priyadharshinipalanisami)
 
 > Replace the author placeholders before publishing.
 
